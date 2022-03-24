@@ -1,0 +1,23 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Simple chat application using mongodb and socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauravgore/Chat-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauravgore/Chat-App/issues"
+  },
+  "homepage": "https://github.com/sauravgore/Chat-App#readme",
+  "dependencies": {
+    "mongodb": "^4.4.1",
+    "socket.io": "^4.4.1"
+  }
+}
